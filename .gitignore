@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+
+# Local build/type-check artifacts
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+
+# Local runtime logs
+*.log
